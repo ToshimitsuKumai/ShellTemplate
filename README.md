@@ -1,1 +1,2 @@
 # ShellTemplate
+Shellファイルを作る時のテンプレート
